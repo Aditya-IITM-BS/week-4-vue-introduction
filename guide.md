@@ -31,7 +31,7 @@
         {name: "Twitter", url: "https://rb.gy/lzv48s", show: false},
         {name: "Youtube", url: "https://www.youtube.com/@mad2768/streams", show:true},
         {name: "Instagram", url: "https://rb.gy/lzv48s", show:true},
-        {name: "Leetcode", url: "https://rb.gy/lzv48s", show:true},
+        {name: "Leetcode", url: "https://leetcode.com/u/AdityaBaxla/", show:true},
     ]
 }
 
